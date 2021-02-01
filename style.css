@@ -1,0 +1,32 @@
+
+body{
+
+    font-family: Roboto;
+}
+
+.container{
+
+    background-color: #f6f5fa;
+}
+
+.calculate-area{
+
+    background-color: tomato;
+    border-radius: 10px;
+    width: 500px;
+
+}
+
+h5{
+    margin: 10px;
+}
+
+#result-area{
+
+    display: none;
+}
+
+.form-control{
+    width: 70%;
+    margin-left: 50px;
+}
